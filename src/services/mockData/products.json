@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "name": "Fresh Bananas",
+    "price": 2.99,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=300&fit=crop",
+    "category": "fruits",
+    "inStock": true,
+    "unit": "1 lb",
+    "description": "Fresh, ripe bananas perfect for snacking or smoothies. Rich in potassium and natural sugars."
+  },
+  {
+    "Id": 2,
+    "name": "Organic Milk",
+    "price": 4.49,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=400&h=300&fit=crop",
+    "category": "dairy",
+    "inStock": true,
+    "unit": "1 gal",
+    "description": "Pure organic whole milk from grass-fed cows. Rich in calcium and vitamins."
+  },
+  {
+    "Id": 3,
+    "name": "Whole Wheat Bread",
+    "price": 3.29,
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=400&h=300&fit=crop",
+    "category": "bakery",
+    "inStock": true,
+    "unit": "1 loaf",
+    "description": "Freshly baked whole wheat bread with no preservatives. Perfect for sandwiches and toast."
+  },
+  {
+    "Id": 4,
+    "name": "Red Tomatoes",
+    "price": 3.99,
+    "image": "https://images.unsplash.com/photo-1546470427-e0b799b53986?w=400&h=300&fit=crop",
+    "category": "vegetables",
+    "inStock": true,
+    "unit": "2 lbs",
+    "description": "Juicy, vine-ripened tomatoes perfect for salads, cooking, and sandwiches."
+  },
+  {
+    "Id": 5,
+    "name": "Free Range Eggs",
+    "price": 5.99,
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=400&h=300&fit=crop",
+    "category": "dairy",
+    "inStock": true,
+    "unit": "12 count",
+    "description": "Farm-fresh free-range eggs from happy hens. High in protein and essential nutrients."
+  },
+  {
+    "Id": 6,
+    "name": "Green Apples",
+    "price": 4.49,
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+    "category": "fruits",
+    "inStock": true,
+    "unit": "3 lbs",
+    "description": "Crisp and tart Granny Smith apples. Perfect for baking, snacking, or making apple sauce."
+  },
+  {
+    "Id": 7,
+    "name": "Greek Yogurt",
+    "price": 6.99,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "category": "dairy",
+    "inStock": true,
+    "unit": "32 oz",
+    "description": "Thick and creamy Greek yogurt packed with probiotics and protein. Available in plain flavor."
+  },
+  {
+    "Id": 8,
+    "name": "Carrots",
+    "price": 2.49,
+    "image": "https://images.unsplash.com/photo-1445282768818-728615cc910a?w=400&h=300&fit=crop",
+    "category": "vegetables",
+    "inStock": true,
+    "unit": "2 lbs",
+    "description": "Fresh, crunchy carrots perfect for snacking, cooking, or juicing. Rich in beta-carotene."
+  },
+  {
+    "Id": 9,
+    "name": "Croissants",
+    "price": 7.99,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
+    "category": "bakery",
+    "inStock": true,
+    "unit": "6 pack",
+    "description": "Buttery, flaky croissants baked fresh daily. Perfect for breakfast or a light snack."
+  },
+  {
+    "Id": 10,
+    "name": "Orange Juice",
+    "price": 5.49,
+    "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400&h=300&fit=crop",
+    "category": "beverages",
+    "inStock": true,
+    "unit": "64 oz",
+    "description": "Fresh-squeezed orange juice with no added sugars. Packed with vitamin C and natural flavors."
+  },
+  {
+    "Id": 11,
+    "name": "Chicken Breast",
+    "price": 8.99,
+    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop",
+    "category": "meat",
+    "inStock": true,
+    "unit": "2 lbs",
+    "description": "Fresh, boneless chicken breast perfect for grilling, baking, or stir-frying. High in protein."
+  },
+  {
+    "Id": 12,
+    "name": "Strawberries",
+    "price": 4.99,
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=300&fit=crop",
+    "category": "fruits",
+    "inStock": true,
+    "unit": "1 lb",
+    "description": "Sweet and juicy strawberries perfect for desserts, smoothies, or eating fresh."
+  }
+]
