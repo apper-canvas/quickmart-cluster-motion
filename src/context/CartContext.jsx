@@ -1,5 +1,5 @@
-import { createContext, useContext, useReducer, useEffect } from 'react';
-import { toast } from 'react-toastify';
+import React, { createContext, useContext, useEffect, useReducer } from "react";
+import { toast } from "react-toastify";
 
 const CartContext = createContext();
 
@@ -94,7 +94,7 @@ export const CartProvider = ({ children }) => {
     toast.success(`${product.name} added to cart!`);
   };
 
-  const removeFromCart = (productId) => {
+const removeFromCart = (productId) => {
     dispatch({ type: 'REMOVE_FROM_CART', payload: productId });
     toast.success('Item removed from cart');
   };
